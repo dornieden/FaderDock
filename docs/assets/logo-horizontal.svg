@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" role="img" aria-label="FaderDock horizontal logo">
+  <path fill="#1F7A8C" d="M140 24 40 88h28v26h144V88h28L140 24z"/>
+  <rect x="174" y="34" width="14" height="44" fill="#1F7A8C"/>
+
+  <g fill="#FFFFFF" stroke="#D5DCE1" stroke-width="2">
+    <rect x="42" y="136" width="56" height="136" rx="9"/>
+    <rect x="112" y="136" width="56" height="136" rx="9"/>
+    <rect x="182" y="136" width="56" height="136" rx="9"/>
+  </g>
+
+  <g fill="#1F2933">
+    <rect x="66" y="152" width="8" height="88" rx="4"/>
+    <rect x="58" y="190" width="24" height="38" rx="6"/>
+    <rect x="62" y="205" width="16" height="5" rx="2.5" fill="#FFFFFF"/>
+
+    <rect x="136" y="152" width="8" height="88" rx="4"/>
+    <rect x="128" y="212" width="24" height="38" rx="6"/>
+    <rect x="132" y="227" width="16" height="5" rx="2.5" fill="#FFFFFF"/>
+
+    <rect x="206" y="152" width="8" height="88" rx="4"/>
+    <rect x="198" y="202" width="24" height="38" rx="6"/>
+    <rect x="202" y="217" width="16" height="5" rx="2.5" fill="#FFFFFF"/>
+  </g>
+
+  <text x="310" y="190"
+        font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Arial, sans-serif"
+        font-size="92" font-weight="700" fill="#1F2933">FaderDock</text>
+
+  <rect x="312" y="218" width="290" height="8" rx="4" fill="#1F7A8C"/>
+</svg>
